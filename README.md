@@ -5,6 +5,6 @@ A script that adds a cascading context menu for the official [NSIS](http://nsis.
 ## Installation
 
 ### Windows Installer
-1. Download [`installer.nsi`](https://raw.github.com/NSIS-Handbook/Tools/master/Windows%207%20Context%20Menu/installer.nsi)
+1. Download [`installer.nsi`](https://raw.githubusercontent.com/NSIS-Dev/Windows-7-Context-Menu/master/installer.nsi)
 2. Compile `installer.nsi`
 3. Execute installer and follow instructions
